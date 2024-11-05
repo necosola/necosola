@@ -1,13 +1,13 @@
 ## ✨Hellow World✨
-### Here is necosola
+### Here is necosola from Taiwan 🇹🇼
 
 ### 🥨 My journey of programming
 - Python | Linux C shell | HTML
   -   DRAM Product Engineer | Micron
 - MATLAB
-  -   Quantum Optic Simulation | Physics | MSc
+  -   Quantum Optic Simulation | Physics NCU | MSc
 - Mathematica | C
-  -   Computational Physics | Physics | BSc
+  -   Computational Physics | Physics NDHU | BSc
 
 ### 🥐 Language 
 - 🇬🇧 English B2-C1
