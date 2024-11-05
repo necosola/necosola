@@ -1,4 +1,19 @@
-## Hi there 👋
+## ✨Hellow World✨
+### Here is necosola
+
+### 🥨 My journey of programming
+- Python | Linux C shell | HTML
+  -   DRAM Product Engineer | Micron
+- MATLAB
+  -   Quantum Optic Simulation | Physics | MSc
+- Mathematica | C
+  -   Computational Physics | Physics | BSc
+
+### 🥐 Language 
+- 🇬🇧 English B2-C1
+- 🇩🇪 Deutsch A1
+- 🇯🇵 Japanese N5
+
 
 <!--
 **necosola/necosola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +27,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
