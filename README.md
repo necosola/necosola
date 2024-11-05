@@ -1,4 +1,4 @@
-## ✨Hellow World✨
+## ✨Hello, World✨
 ### Here is necosola from Taiwan 🇹🇼
 
 ### 🥨 My journey of programming
